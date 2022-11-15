@@ -1,0 +1,60 @@
+body {
+    background-color: 
+    hwb(199 56% 22%);
+    margin: 5% 10%
+}
+
+.watch-list {
+    color: #020201;
+    width:150px;
+    display: block;
+    float: right;
+    height: 150px;
+    background-color: #f6e7cf;
+    text-shadow: none;
+    overflow: scroll;
+}
+
+.header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* width: 40%; */
+    color: hsl(3, 90%, 35%); 
+    text-shadow: -1px 0 #020201, 0 1px #849052, 1px 0 #849052, 0 -1px #849052;
+    display:block;
+    /* position: float; */
+}
+.title {
+    font-style: italic;
+    font-size: 50px;
+}
+
+.subtitle {
+    font-size: 30px;
+}
+
+button {
+    margin: 15px, 15px;
+    
+}
+
+/* .card {
+    padding: 20px 0px;
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+
+
+#cardInfo {
+    display:block;
+    float: left; 
+    width: 40%; 
+} */
+
+.episodes {
+    display: block;
+    float: left; 
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+}
