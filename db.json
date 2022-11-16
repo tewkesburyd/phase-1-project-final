@@ -1,27 +1,27 @@
 {
   "watch": [
     {
-      "id": 31189,
-      "url": "https://www.tvmaze.com/episodes/31189/community-1x01-pilot",
-      "name": "Pilot",
+      "id": 31191,
+      "url": "https://www.tvmaze.com/episodes/31191/community-1x03-introduction-to-film",
+      "name": "Introduction to Film",
       "season": 1,
-      "number": 1,
+      "number": 3,
       "type": "regular",
-      "airdate": "2009-09-17",
+      "airdate": "2009-10-01",
       "airtime": "",
-      "airstamp": "2009-09-17T16:00:00+00:00",
+      "airstamp": "2009-10-01T16:00:00+00:00",
       "runtime": 30,
       "rating": {
-        "average": 7.1
+        "average": 7.6
       },
       "image": {
-        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494736.jpg",
-        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494736.jpg"
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494738.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494738.jpg"
       },
-      "summary": "<p>Community\" is a new NBC comedy series about a band of misfits who attend Greendale Community College. At the center of the group is Jeff Winger, a fast-talking lawyer whose degree has been revoked. With some help from his fellow classmates, Winger forms a study group who eventually learn more about themselves than their course work. The study group consists of Pierce a man whose life experience has brought him infinite wisdom; Britta a 28-year old drop out with something to prove; Shirley a sassy middle-aged divorcée; Abed a pop culture junkie; Annie a high-strung perfectionist; Troy a former high school football star and Spanish professor, Senor Chang.</p>",
+      "summary": "<p>Jeff signs up for a class, taught by a \"Carpe Diem\" inspired Professor Whitman, thinking he can coast through and get an easy A. Jeff quickly discovers he'll need to put in much more effort than expected just to pass. Meanwhile, Britta helps Abed with his dream of studying film.</p>",
       "_links": {
         "self": {
-          "href": "https://api.tvmaze.com/episodes/31189"
+          "href": "https://api.tvmaze.com/episodes/31191"
         },
         "show": {
           "href": "https://api.tvmaze.com/shows/318"
@@ -29,30 +29,58 @@
       }
     },
     {
-      "id": 47768,
-      "url": "https://www.tvmaze.com/episodes/47768/the-office-7x03-andys-play",
-      "name": "Andy's Play",
-      "season": 7,
-      "number": 3,
+      "id": 31273,
+      "url": "https://www.tvmaze.com/episodes/31273/community-5x01-repilot",
+      "name": "Repilot",
+      "season": 5,
+      "number": 1,
       "type": "regular",
-      "airdate": "2010-10-07",
-      "airtime": "21:00",
-      "airstamp": "2010-10-08T01:00:00+00:00",
+      "airdate": "2014-01-02",
+      "airtime": "",
+      "airstamp": "2014-01-02T17:00:00+00:00",
       "runtime": 30,
       "rating": {
-        "average": 8
+        "average": 7.3
       },
       "image": {
-        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/487673.jpg",
-        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/487673.jpg"
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494839.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494839.jpg"
       },
-      "summary": "<p>Andy invites the entire office to his community theatre production of \"Sweeney Todd'.</p>",
+      "summary": "<p>Jeff returns to Greendale when his former law partner Alan Connor recruits him to gather evidence for a lawsuit he is pursuing. Dean Pelton is thrilled to see Jeff back at Greendale. Thinking he is there to help save the school, he quickly calls the study group back together - surprising Jeff with a reunion.</p>",
       "_links": {
         "self": {
-          "href": "https://api.tvmaze.com/episodes/47768"
+          "href": "https://api.tvmaze.com/episodes/31273"
         },
         "show": {
-          "href": "https://api.tvmaze.com/shows/526"
+          "href": "https://api.tvmaze.com/shows/318"
+        }
+      }
+    },
+    {
+      "id": 31274,
+      "url": "https://www.tvmaze.com/episodes/31274/community-5x02-introduction-to-teaching",
+      "name": "Introduction to Teaching",
+      "season": 5,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2014-01-02",
+      "airtime": "",
+      "airstamp": "2014-01-02T17:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494840.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494840.jpg"
+      },
+      "summary": "<p>Jeff settles into a new job at Greendale and adjusts to the expectations of being on staff - Professor Hickey shows him the ropes and shares some pointers on how to manage unruly and demanding students. Meanwhile, Abed convinces the study group to take a new class, \"Nicolas Cage: Good or Bad,\" with Professor Garrity.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/31274"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/318"
         }
       }
     }
